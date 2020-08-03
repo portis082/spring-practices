@@ -8,4 +8,7 @@
 	
 	
 	<packaging>pom</packaging>
+	<modules>
+		<module>hellowspring03</module>
+	</modules>
 </project>
