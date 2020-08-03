@@ -9,6 +9,6 @@
 	
 	<packaging>pom</packaging>
 	<modules>
-		<module>hellowspring03</module>
+		<module>hellospring03</module>
 	</modules>
 </project>
